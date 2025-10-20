@@ -17,4 +17,5 @@ No installation required! This is a Python script that runs with standard librar
 # Disclaimer
 This tool is for educational purposes and general guidance only. While it helps identify basic password weaknesses, it doesn't guarantee password security. Always follow your organization's security policies and use additional security measures like multi-factor authentication.
 
-# Remember: A strong password is just one part of good security hygiene. Always combine strong passwords with other security best practices!
+# Remember
+A strong password is just one part of good security hygiene. Always combine strong passwords with other security best practices!
